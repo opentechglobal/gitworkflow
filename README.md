@@ -48,6 +48,10 @@ The description of the PR should contain the following headings and correspondin
 #### Screenshots (if appropriate)
 ```
 
+**Full Example**
+![PR example](https://github.com/opentechglobal/gitworkflow/blob/master/images/pr_ex.png)
+
+
 ### Commits
 
 Use atomic commits
@@ -105,7 +109,5 @@ or in a case of multiple issues:
 [Finishes #5438233, #5891837, #4988398]
 ```
 
-## Example
-
-chore(progressive-web-app):register service worker  
-[Start #171145778]
+**Example**
+![commit example](https://github.com/opentechglobal/gitworkflow/blob/master/images/commit_ex.png)
